@@ -1,0 +1,20 @@
+Plug 'mattn/emmet-vim'
+Plug 'moll/vim-node'
+Plug 'chemzqm/vim-jsx-improve'
+Plug 'othree/yajs.vim'
+Plug 'morhetz/gruvbox'
+Plug 'SirVer/ultisnips'
+
+" Currently, es6 version of snippets is available in es6 branch only
+Plug 'letientai299/vim-react-snippets', { 'branch': 'es6' }
+Plug 'honza/vim-snippets' "optional
+Plug 'haya14busa/vim-asterisk'
+Plug 'Valloric/YouCompleteMe'
+Plug 'ervandew/supertab'
+Plug 'NLKNguyen/papercolor-theme'
+Plug 'Yggdroot/indentLine'
+Plug 'ap/vim-buftabline'
+Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
+Plug 'junegunn/fzf.vim'
+
+
